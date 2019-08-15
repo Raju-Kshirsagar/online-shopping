@@ -49,7 +49,7 @@ Start the backend server before the frontend client.
 
 **Backend**
 
-  1. Install [PostgreSQL](https://www.postgresql.org/download/) 
+  1. Install [PostgreSQL](https://www.postgresql.org/download/) and ZIP Config (https://feilerdev.wordpress.com/2017/12/05/installing-postgresql-on-windows-using-zip-archive-without-the-installer/)
   2. Configure datasource in `application.yml`.
   3. `cd backend`.
   4. Run `mvn install`.
