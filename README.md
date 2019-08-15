@@ -84,3 +84,6 @@ ng build --prod
 docker-compose up --build
 ```
 
+# Push On Pivotal Cloudfoundry 
+
+ [click on link](https://pivotal.io/platform/pcf-tutorials/getting-started-with-pivotal-cloud-foundry/view-the-logs)
