@@ -135,5 +135,7 @@
     }
   },
   "defaultProject": "shop",
-
+  "cli": {
+    "analytics": "842cec07-1df6-4856-8543-9b69a9ae03d3"
+  }
 }
