@@ -9,7 +9,7 @@ The frontend client makes API calls to the backend server when it is running.
 > This project is based on my previous project Online-Shopping-Store, which uses FreeMarker as template engine for server-side rendering. 
 
 ## Screenshot
-![](https://raw.githubusercontent.com/zhulinn/blog/hexo/source/uploads/post_pics/spring-angular/cart.png)
+![](https://github.com/Raju-Kshirsagar/raju.kshirsagar151-gmail.com/upload/master/cart.png)(https://raw.githubusercontent.com/zhulinn/blog/hexo/source/uploads/post_pics/spring-angular/cart.png)
 
 ## Features
 - REST API
