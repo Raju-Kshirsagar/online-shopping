@@ -5,7 +5,7 @@ import me.ksagar.shopapi.entity.ProductCategory;
 import java.util.List;
 
 /**
- * Created By K'sagar on 3/10/2018.
+ * Created By K'sagar on 06/04/2020.
  */
 public interface CategoryService {
 

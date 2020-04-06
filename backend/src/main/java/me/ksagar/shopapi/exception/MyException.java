@@ -4,7 +4,7 @@ package me.ksagar.shopapi.exception;
 import me.ksagar.shopapi.enums.ResultEnum;
 
 /**
- * Created By K'sagar on 3/10/2018.
+ * Created By K'sagar on 06/04/2020.
  */
 public class MyException extends RuntimeException {
 

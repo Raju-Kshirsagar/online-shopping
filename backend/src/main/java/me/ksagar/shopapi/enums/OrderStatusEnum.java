@@ -1,7 +1,7 @@
 package me.ksagar.shopapi.enums;
 
 /**
- * Created By K'sagar on 3/14/2018.
+ * Created By K'sagar on 06/04/2020
  */
 public enum OrderStatusEnum implements CodeEnum {
     NEW(0, "New OrderMain"),

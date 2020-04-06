@@ -6,7 +6,7 @@ import me.ksagar.shopapi.entity.User;
 import java.util.Collection;
 
 /**
- * Created By K'sagar on 3/13/2018.
+ * Created By K'sagar on 06/04/2020
  */
 public interface UserService {
     User findOne(String email);

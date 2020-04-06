@@ -3,7 +3,7 @@ package me.ksagar.shopapi.vo.response;
 import lombok.Data;
 
 /**
- * Created By K'sagar on 1/1/2019.
+ * Created By K'sagar on 06/04/2020.
  */
 @Data
 public class JwtResponse {
